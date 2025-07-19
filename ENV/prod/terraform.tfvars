@@ -7,3 +7,4 @@ location1 = "centralindia"
 
 resource_group_name2 = "centralindia_prod_rg003"
 location2 = "centralindia"
+
